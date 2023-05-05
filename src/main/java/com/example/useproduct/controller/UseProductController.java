@@ -15,6 +15,8 @@ import org.springframework.web.client.RestTemplate;
 @RequestMapping(value="/useproduc")
 public class UseProductController {
 
+	
+	
 	@Autowired
 	RestTemplate rest;
 
